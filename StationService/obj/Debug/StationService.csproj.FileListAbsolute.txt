@@ -1,0 +1,7 @@
+C:\Users\MediaMonster\source\repos\StationService\StationService\bin\Debug\StationService.exe.config
+C:\Users\MediaMonster\source\repos\StationService\StationService\bin\Debug\StationService.exe
+C:\Users\MediaMonster\source\repos\StationService\StationService\bin\Debug\StationService.pdb
+C:\Users\MediaMonster\source\repos\StationService\StationService\obj\Debug\StationService.csprojAssemblyReference.cache
+C:\Users\MediaMonster\source\repos\StationService\StationService\obj\Debug\StationService.csproj.CoreCompileInputs.cache
+C:\Users\MediaMonster\source\repos\StationService\StationService\obj\Debug\StationService.exe
+C:\Users\MediaMonster\source\repos\StationService\StationService\obj\Debug\StationService.pdb
